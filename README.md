@@ -6,4 +6,4 @@ Use this to set a message to a specific time in future and recieve it from your 
 
 
 
-Idea credit: @ajaydev07
+Idea credit: Mera khudka h, kisi ne nhi btaya mujhe
